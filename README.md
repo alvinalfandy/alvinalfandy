@@ -1,9 +1,6 @@
 # Hi there, I'm Alvin  - aka [Alvin alfandy]([https://www.instagram.com/alvinalfandyy/)) 👋
 ## About me:
-- 👨‍💻 Mahasiswa Informatika | Umur 18
-- 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Automation and Analyst
-- 🤔 I’m looking for suggest for Rust Project Ideas
+- 👨‍💻 Mahasiswa | Umur 18
 - 💬 Ask me about anything
 - 📫 How to reach me: alvinalfandy0601@gmail.com
 
