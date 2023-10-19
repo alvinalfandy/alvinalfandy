@@ -4,6 +4,8 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: alvinalfandy0601@gmail.com
 
+![Profile views](https://komarev.com/ghpvc/?username=alvinalfandy&color=brightgreen)
+
 ## Education:
 
 #### 1. [SMAN 1 SUKATANI ]() | ILMU PENGETAHUAN SOSIAL | BEKASI `2020-2023`
