@@ -14,14 +14,10 @@
 
 
 
-### Languages and Tools:
+## *🧑‍💻 Stats*
 
-
-[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
-
-
-<br />
-<br />
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alvinalfandy&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Isallkun github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinalfandy&layout=compact&theme=radical&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ---
 ### Connect with me:
