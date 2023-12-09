@@ -1,8 +1,11 @@
 # Hi there, I'm Alvin  - aka [Alvin alfandy]([https://www.instagram.com/alvinalfandyy/)) 👋
+
 ## About me:
 - 👨‍💻 Mahasiswa | Umur 18
 - 💬 Ask me about anything
 - 📫 How to reach me: alvinalfandy0601@gmail.com
+
+<img align="right" alt="Coding" width="300" src="https://media1.tenor.com/m/xKgp6ACv1m4AAAAC/marsha-marshalenathea.gif">
 
 ![Profile views](https://komarev.com/ghpvc/?username=alvinalfandy&color=brightgreen)
 
@@ -10,7 +13,6 @@
 
 #### 1. [SMAN 1 SUKATANI ]() | ILMU PENGETAHUAN SOSIAL | BEKASI `2020-2023`
    
-
 
 
 
