@@ -1,7 +1,7 @@
 # Hi there, I'm Alvin  - aka [Alvin alfandy]([https://www.instagram.com/alvinalfandyy/)) 👋
 
 ## About me:
-- 👨‍💻 Mahasiswa | Umur 18
+- 👨‍💻 Student | 19 Years
 - 💬 Ask me about anything
 - 📫 How to reach me: alvinalfandy0601@gmail.com
 
