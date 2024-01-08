@@ -5,7 +5,7 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: alvinalfandy0601@gmail.com
 
-<img align="right" alt="Coding" width="300" src="https://media1.tenor.com/m/v0wSfGaSKfMAAAAC/nft-crypto.gif">
+<img align="right" alt="Coding" width="300" src="readmebox.svg">
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=alvinalfandy&color=brightgreen)
