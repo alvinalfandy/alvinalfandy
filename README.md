@@ -11,13 +11,6 @@
 
 
 
-## Education:
-
-#### 1. [SMAN 1 SUKATANI ]() | ILMU PENGETAHUAN SOSIAL | BEKASI `2020-2023`
-   
-
-
-
 ## *🧑‍💻 Stats*
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alvinalfandy&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Isallkun github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinalfandy&layout=compact&theme=radical&hide_border=true" /></a> |
