@@ -5,12 +5,6 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: alvinalfandy0601@gmail.com
 
-
-<img align="right" alt="Coding" width="300" src="readmebox.svg">
-
-
-
-
 ## *🧑‍💻 Stats*
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alvinalfandy&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Isallkun github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinalfandy&layout=compact&theme=radical&hide_border=true" /></a> |
@@ -32,6 +26,8 @@
 [![website](./img/instagram-dark.svg)](https://instagram.com/alvinalfandyy#gh-dark-mode-only)
 
 
-
-
 [webdev]: https://github.com/alvinalfandy/alvinalfandy
+
+
+
+<img align="right" alt="Coding" width="300" src="readmebox.svg">
