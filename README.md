@@ -34,6 +34,13 @@
 
 ## 🌱 **Learning Roadmap**
 
+---
+
+#### 📌 **Current Focus**
+```diff
++ Building ERC-20 Token Contracts
++ Learning Hardhat Testing Suite
+! Participating in ETHGlobal Hackathon
 
 
 ## 🌐 **Web3 Connections**
@@ -56,4 +63,4 @@
 
 </div>
 
-![Code Journey](https://raw.githubusercontent.com/alvinalfandy/alvinalfandy/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![Code Journey]()
