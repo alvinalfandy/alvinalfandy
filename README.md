@@ -34,18 +34,7 @@
 
 ## 🌱 **Learning Roadmap**
 
-```mermaid
-graph TD
-    A[Web3 Fundamentals] --> B[Solidity Basics]
-    A --> C[Smart Contract Security]
-    B --> D[Hardhat Development]
-    C --> D
-    D --> E[DeFi Protocols]
-    D --> F[NFT Standards]
-    E --> G[DAO Architecture]
-    F --> G
 
-mermaid```
 
 ## 🌐 **Web3 Connections**
 
