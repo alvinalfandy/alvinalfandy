@@ -27,8 +27,6 @@
 
 <div align="center">
 
-🔄 **Refreshing in Progress...**  
-
-![Progress Bar](https://progress-bar.dev/70/?title=Maintenance%20Progress&color=00D1FF)
+🔄 **Refreshing in proggres
 
 </div>
