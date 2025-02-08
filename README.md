@@ -45,6 +45,8 @@ graph TD
     E --> G[DAO Architecture]
     F --> G
 
+mermaid```
+
 ## 🌐 **Web3 Connections**
 
 <div align="center" style="display: flex; gap: 10px; justify-content: center">
