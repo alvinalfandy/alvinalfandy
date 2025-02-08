@@ -44,3 +44,25 @@ graph TD
     D --> F[NFT Standards]
     E --> G[DAO Architecture]
     F --> G
+
+## 🌐 **Web3 Connections**
+
+<div align="center" style="display: flex; gap: 10px; justify-content: center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/alvinalfandy)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/alfandy_alvin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alvin-alfandy-69893b1a8/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-Blog-0A0A0A?style=for-the-badge&logo=dev.to)](https://dev.to/alvinalfandy)
+[![GitBook](https://img.shields.io/badge/GitBook-Docs-3884FF?style=for-the-badge&logo=gitbook)](https://alvinalfandy.gitbook.io)
+
+</div>
+
+<div align="center">
+
+![Days Learning Web3](https://img.shields.io/badge/Days%20in%20Web3-150+-00D1FF?style=flat-square)
+![Hackathons](https://img.shields.io/badge/Hackathons%20Joined-3-00D1FF?style=flat-square)
+![Mentorship](https://img.shields.io/badge/Seeking%20Mentorship-Yes!-00D1FF?style=flat-square)
+
+</div>
+
+![Code Journey](https://raw.githubusercontent.com/alvinalfandy/alvinalfandy/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
