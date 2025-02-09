@@ -66,7 +66,7 @@
 
 Berikut bagian markdown mulai dari Web3 Connections:
 
-```markdown
+
 ## 🌐 **Web3 Connections**
 
 <div align="center" style="display: flex; gap: 10px; justify-content: center">
@@ -88,4 +88,3 @@ Berikut bagian markdown mulai dari Web3 Connections:
 </div>
 
 ![Code Journey](https://github.com/alvinalfandy/alvinalfandy/blob/aaa/snake.yml)
-```
