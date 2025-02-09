@@ -87,4 +87,4 @@ Berikut bagian markdown mulai dari Web3 Connections:
 
 </div>
 
-![Code Journey](https://github.com/alvinalfandy/alvinalfandy/blob/aaa/snake.yml)
+![Contribution Snake](https://raw.githubusercontent.com/alvinalfandy/alvinalfandy/main/dist/github-contribution-grid-snake.svg)
