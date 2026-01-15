@@ -2,10 +2,10 @@
 
 <div align="left">
   <a href="https://alvinalfandy.my.id">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00D1FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+    <img src="https://img.shields.io/badge/VISIT_PORTFOLIO-00D1FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
   <a href="https://www.linkedin.com/in/alvin-alfandy-69893b1a8/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/CONNECT_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
 
@@ -37,9 +37,11 @@
 ## 📊 **GitHub Stats**
 
 <div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=alvinalfandy&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=00D1FF&icon_color=00D1FF&include_all_commits=true" alt="Alvin's GitHub stats" />
+  
+  <br/>
 
-![Alvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvinalfandy&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=00D1FF&icon_color=00D1FF&include_all_commits=true)
-
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alvinalfandy&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=00D1FF" alt="Top Languages" />
 </div>
 
 ---
